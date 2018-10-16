@@ -1,0 +1,7 @@
+A:Hello!
+B:Hi!
+A:It`s long time no see!
+B:Yes,how are you?
+A:Fine,these day,I went to Shanghai for a friend`s party.It`s a funny experience.And you?
+B:Just so so.I don`t even want to mention anything.
+A:Oh,sorry!
